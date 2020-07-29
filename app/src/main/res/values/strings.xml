@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Diceee</string>
     <string name="button_text">Roll</string>
+    <string name="logo_of_the_app" translatable="false">Logo of the App</string>
+    <string name="dice1_to_be_rolled" translatable="false">Dice1 to be rolled</string>
+    <string name="dice2_to_be_rolled" translatable="false">Dice2 to be rolled</string>
 </resources>
